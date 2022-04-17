@@ -142,7 +142,6 @@ export default function Home({ defaultProposals, defaultPages }) {
                 //         {proposal.title.split(" ").splice(0, 10).join(" ")}
                 //         {proposal.title.split(" ").length > 10 ? "..." : ""}
                 //       </h4>
-
                 //       {/* Proposal ID + Status + Status update date */}
                 //       <span id="numeric">
                 //         {proposal.id} • {firstUppercase(proposal.state.value)}{" "}
@@ -151,7 +150,6 @@ export default function Home({ defaultProposals, defaultPages }) {
                 //           .format("MMMM D, YYYY")}
                 //       </span>
                 //     </div>
-
                 //     {/* Proposal actions */}
                 //     <div>
                 //       <button
